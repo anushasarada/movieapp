@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MovieListingApp.iml" filepath="$PROJECT_DIR$/MovieListingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSC-MovieListingApp.iml" filepath="$PROJECT_DIR$/DSC-MovieListingApp.iml" />
+      <module fileurl="file://C:\Users\sarada\AndroidStudioProjects\DSC-MovieListingApp\MovieListingApp.iml" filepath="C:\Users\sarada\AndroidStudioProjects\DSC-MovieListingApp\MovieListingApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
